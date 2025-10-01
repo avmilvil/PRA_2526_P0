@@ -15,7 +15,7 @@ public:
 	void coger();
 	void soltar();
 	void mover(double x_dest, double y_dest, double z_dest);
-}
+};
 
 #endif
 
